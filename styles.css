@@ -1,0 +1,14 @@
+.container{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    
+}
+.pattern{
+    width: 32%;
+}
+h,p{
+    color: hwb(207 8% 17% / 0.87);
+}
+
